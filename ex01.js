@@ -1,9 +1,8 @@
-// ex01.js
+// ex00.js
 
-function greetings(firstname) {
-	return "Bienvenue, " + firstname + " !";
+function multiplyNumber(a, b) {
+    return a * b;
 }
 
-console.log(greetings("")); // Résultat attendu: "Bienvenue, !"
-console.log(greetings("Ben")); // Résultat attendu: "Bienvenue, Ben !"
-console.log(greetings("Nono")); // Résultat attendu: "Bienvenue, Nono !"
+console.log(multiplyNumber(0, -1)); // Résultat attendu: 0
+console.log(multiplyNumber(-1, -1)); // Résultat attendu: 1
