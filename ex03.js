@@ -1,4 +1,4 @@
-// ex02.js
+// ex03.js
 
 function areaCalculator(width, height) {
 	return width * height;

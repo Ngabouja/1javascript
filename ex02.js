@@ -1,4 +1,4 @@
-// ex01.js
+// ex02.js
 
 function greetings(firstname) {
 	return "Bienvenue, " + firstname + " !";

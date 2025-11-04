@@ -1,7 +1,7 @@
-// ex03.js
+// ex04.js
 
 function areaHardcoreCalculator(x1, y1, x2, y2) {
-	return (x1 - x2) * (y2 - y1);
+	return (y2 - y1) * (x2 - x1);
 }
 
 console.log(areaHardcoreCalculator(0, 1, 3, 2)); // Résultat attendu: 3

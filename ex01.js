@@ -1,4 +1,4 @@
-// ex00.js
+// ex01.js
 
 function multiplyNumber(a, b) {
     return a * b;
